@@ -40,7 +40,7 @@ const App = () => {
         support or try another payment method.{" "}
       </div>
       <div style={{ fontSize: "1.1rem", fontWeight: 600 }}>
-        Redirecting in 10 seconds...
+        Redirecting in 7 seconds...
       </div>
       <div style={{display:'flex',justifyContent:"center",alignItems:'center',height:'5rem',gap:'4px'}}>
         <img
