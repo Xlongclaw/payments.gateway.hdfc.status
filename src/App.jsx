@@ -48,11 +48,11 @@ const App = () => {
           src={require("./hdfc.png")}
           alt=""
         />
-        <img
+        {/* <img
           style={{ width: "6rem" }}
           src={require("./icici.png")}
           alt=""
-        />
+        /> */}
       </div>
     </div>
   );
